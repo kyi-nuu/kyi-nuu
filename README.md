@@ -10,8 +10,6 @@
 Motivated Computer Science student with hands-on experience in **Full-Stack Development, Machine Learning, and IoT Systems**.  
 Passionate about building **real-world applications** and leading **technical workshops** for students and communities.  
 
-![Coding GIF](https://media.giphy.com/media/26xBvFb4qB8xjRLb2/giphy.gif)
-
 ---
 
 ## 🛠 Technical Skills
@@ -105,12 +103,6 @@ Git, VS Code, Postman, Figma, Streamlit
 - School Representative Delegate, **Student Leaders Solidarity Camp**, Sabah 2025  
 - Participant, **Swiss Innovation Challenge Malaysia** 2025  
 - School Delegate, **National Talent Transformation Dialogue (NATAD)** 2025  
-
----
-
-## 📊 GitHub Stats
-![Kyi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyinuuphyu&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyinuuphyu&layout=compact&theme=radical)
 
 ---
 
